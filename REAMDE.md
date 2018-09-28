@@ -9,3 +9,6 @@ k      : up
 l      : right
 <space>: break identical adjacent letters
 q      : quit
+
+# Warnings
+There is some bugs
